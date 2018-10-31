@@ -2,7 +2,8 @@
 """
 Created on Sun Sep 27 2018
 
-@author: Olivier Pare Labrosse
+Olivier Pare Labrosse
+Kamil Krawczyk
 """
 
 from scipy.io import loadmat
